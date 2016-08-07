@@ -52,4 +52,3 @@ type GcmResponse struct {
 	CanonicalIds int             `json:"canonical_ids"`
 	Results      []GcmResultItem `json:"results"`
 }
-
